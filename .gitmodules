@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "babelmixr2"]
+	path = babelmixr2
+	url = https://github.com/cran/babelmixr2
+	shallow = true
+	registered = true
+[submodule "lbfgsb3c"]
+	path = lbfgsb3c
+	url = https://github.com/cran/lbfgsb3c
+	shallow = true
+	registered = true
+[submodule "PreciseSums"]
+	path = PreciseSums
+	url = https://github.com/cran/PreciseSums
+	shallow = true
+	registered = true
