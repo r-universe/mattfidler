@@ -13,8 +13,3 @@
 	url = https://github.com/cran/lbfgsb3c
 	shallow = true
 	registered = true
-[submodule "PreciseSums"]
-	path = PreciseSums
-	url = https://github.com/cran/PreciseSums
-	shallow = true
-	registered = true
